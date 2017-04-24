@@ -2,9 +2,7 @@
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
- <div class="popup" onclick="myFunction()">Click me!
-  <span class="popuptext" id="myPopup">Popup text...</span>
-</div>
+<a href="#" onClick="pop()">lien</a>
 
 salut salut !!!
 
