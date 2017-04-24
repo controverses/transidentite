@@ -2,19 +2,6 @@
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
-<button id="myBtn">Open Modal</button>
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
-  </div>
-
-</div>
-
 salut salut !!!
 
 You can use the [editor on GitHub](https://github.com/controverses/transidentite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
