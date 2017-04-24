@@ -1,6 +1,6 @@
 ## Transexuel
 
-[Aller à la page 1](https://controverses.github.io/transidentite/page1.md)
+[Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
 salut salut !!!
 
