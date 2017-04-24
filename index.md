@@ -1,4 +1,4 @@
-## Transexuel
+## Transsexuel
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
