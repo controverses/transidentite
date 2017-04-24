@@ -6,6 +6,8 @@ You can use the [editor on GitHub](https://github.com/controverses/transidentite
 
 ![SIGLE](http://www.txy.fr/wp-content/uploads/2013/03/Logo-T.jpg)
 
+<img src="http://www.txy.fr/wp-content/uploads/2013/03/Logo-T.jpg" width=480>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
