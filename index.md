@@ -2,7 +2,18 @@
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
-<a href="#" onClick="pop()">lien</a>
+<button id="myBtn">Open Modal</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Some text in the Modal..</p>
+  </div>
+
+</div>
 
 salut salut !!!
 
