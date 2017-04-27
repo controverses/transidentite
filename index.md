@@ -1,4 +1,13 @@
-## Transsexuel
+## Problématisation
+
+lalala
+
+## Petite histoire de la terminologie 
+
+salut salut
+salut
+
+## Constats préliminaires 
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
