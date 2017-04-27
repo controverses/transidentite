@@ -1,8 +1,8 @@
-**#Problématisation**
+# **Problématisation**
 
 lalala
 
-#**Petite histoire de la terminologie : du transsexualisme à la transidentité**
+# **Petite histoire de la terminologie : du transsexualisme à la transidentité**
 
 
 La définition même de transgenre est déjà un sujet controversé : si elle a pu évoluer depuis le XXème siècle, elle reste intrinsèquement liée à un aspect chirurgical et psychologique. 
