@@ -1,4 +1,6 @@
 
+<img src="https://s-media-cache-ak0.pinimg.com/736x/3e/b9/58/3eb9583251a4b67214353c42f773d26b.jpg" width="480" align="center">
+
 # Problématisation
 
 lalala
