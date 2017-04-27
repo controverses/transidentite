@@ -22,7 +22,7 @@ C’est seulement en 2010 que Roselyne Bachelot a décrété que « *la transsex
 
 
 
-#**Constats préliminaires**
+# **Constats préliminaires**
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
