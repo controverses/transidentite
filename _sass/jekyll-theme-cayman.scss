@@ -32,6 +32,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  text-align: justify;
 }
 
 a {
@@ -167,6 +168,7 @@ a {
 
   img {
     max-width: 100%;
+    text-align: center;
   }
 
   h1,
