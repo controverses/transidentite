@@ -1,4 +1,3 @@
-<==>
 
 # Problématisation
 
@@ -7,7 +6,7 @@ lalala
 # Petite histoire de la terminologie : du transsexualisme à la transidentité
 
 
-La définition même de transgenre est déjà un sujet controversé : si elle a pu évoluer depuis le XXème siècle, elle reste intrinsèquement liée à un aspect chirurgical et psychologique. 
+<p align="justify">La définition même de transgenre est déjà un sujet controversé : si elle a pu évoluer depuis le XXème siècle, elle reste intrinsèquement liée à un aspect chirurgical et psychologique. 
 
 Jusqu’au XIXème siècle, c’est l’idée d’une dichotomie stricte et irréversible entre le sexe masculin et le sexe féminin qui s’impose. En 1838, Jean Esquirol va classifier ce qu’il appelle transsexualisme dans les monomanies, une des formes de maladies psychiatriques. La médicalisation de la transidentité continue au XXème siècle. Harry Benjamin, endocrinologue et sexologue américain poursuit les travaux de Magnus Hirschfeld, fondateur de l’institut des sciences sexuelles et définit le transsexualisme comme le sentiment d’appartenir au sexe opposé et le désir d’une transformation corporelle. 
 
@@ -20,12 +19,13 @@ Un nouveau terme va naître dans les années 2000 : c’est la dysphorie de genr
 
 Enfin, ces critères sont limités par une condition : « une souffrance cliniquement significative ou une altération du fonctionnement social, professionnel ».
 
-C’est seulement en 2010 que Roselyne Bachelot a décrété que « *la transsexualité ne sera plus considérée comme une affection psychiatrique en France* ».
+C’est seulement en 2010 que Roselyne Bachelot a décrété que « *la transsexualité ne sera plus considérée comme une affection psychiatrique en France* ».</p>
 
 
 
 # Constats préliminaires
 
+<p align="justify">
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
 salut salut !!!
@@ -38,3 +38,4 @@ You can use the [editor on GitHub](https://github.com/controverses/transidentite
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ny1-Iswbc90" frameborder="0" allowfullscreen></iframe>
 
+</p>
