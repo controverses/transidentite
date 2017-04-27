@@ -1,8 +1,10 @@
-# **Problématisation**
+<==>
+
+# Problématisation
 
 lalala
 
-# **Petite histoire de la terminologie : du transsexualisme à la transidentité**
+# Petite histoire de la terminologie : du transsexualisme à la transidentité
 
 
 La définition même de transgenre est déjà un sujet controversé : si elle a pu évoluer depuis le XXème siècle, elle reste intrinsèquement liée à un aspect chirurgical et psychologique. 
@@ -22,7 +24,7 @@ C’est seulement en 2010 que Roselyne Bachelot a décrété que « *la transsex
 
 
 
-# **Constats préliminaires**
+# Constats préliminaires
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
