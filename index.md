@@ -1,4 +1,4 @@
-<audio src="https://youtu.be/DrSLYM9tkIA" autoplay>
+<audio src="https://youtu.be/DrSLYM9tkIA" controls><audio>
 
 # Problématisation
 
