@@ -6,4 +6,6 @@
 
 <p align= "justify">Pour les femmes qui souhaitent devenir homme, le traitement est le même que pour les hommes souffrant d’hypogonadisme : il consiste en des injections intramusculaires de testostérone (plus rapide), ou en la prise de médicaments androgènes, associés à des anti-gonadotropes. Il s’agit tout d’abord de supprimer les règles, puis d’obtenir et de conserver un taux de testostérone équivalent à celui d’un homme biologique adulte. A ces traitements hormonaux principaux, indispensables pour effectuer une opération de réassignation sexuelle, peuvent s’ajouter des traitements visant à permettre le développement des caractères sexuels secondaires. Ceux-ci existent le plus souvent sous forme de patch ou de crème.</p> 
 
-# Entretien
+# Entretiens
+
+# Mapping du parcours
