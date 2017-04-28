@@ -1,4 +1,4 @@
-<video src="https://controverses.github.io/transidentite/Macron.mp4" width="640" height="480"></video>
+<video src="https://controverses.github.io/transidentite/Macron.mp4" width="100" height="100"></video>
 
 # Problématisation
 
