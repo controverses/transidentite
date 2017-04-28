@@ -18,7 +18,7 @@
 
 <p align= "justify">Enfin, ces critères sont limités par une condition : « une souffrance cliniquement significative ou une altération du fonctionnement social, professionnel ».</p>
 
-<p align= "justify">C’est seulement en 2010 que Roselyne Bachelot a décrété que « *la transsexualité ne sera plus considérée comme une affection psychiatrique en France* ».</p>
+<p align= "justify">C’est seulement en 2010 que Roselyne Bachelot a décrété que «</p> *la transsexualité ne sera plus considérée comme une affection psychiatrique en France* ».
 
 # Constats préliminaires
 
