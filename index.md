@@ -1,9 +1,9 @@
 
-## Problématisation
+# Problématisation
 
 lalala
 
-## Petite histoire de la terminologie : du transsexualisme à la transidentité
+# Petite histoire de la terminologie : du transsexualisme à la transidentité
 
 La définition même de transgenre est déjà un sujet controversé : si elle a pu évoluer depuis le XXème siècle, elle reste intrinsèquement liée à un aspect chirurgical et psychologique. 
 
@@ -11,10 +11,10 @@ Jusqu’au XIXème siècle, c’est l’idée d’une dichotomie stricte et irr�
 
 Un nouveau terme va naître dans les années 2000 : c’est la dysphorie de genre. C’est le fait de remplir les critères de définition de la dysphorie de genre qui va permettre à un individu de pouvoir entamer une procédure de changement de sexe. Parmi ces critères, on retrouve notamment :
 
--	Un désir fort de se débarrasser des caractéristiques sexuelles d’un des deux sexes, du fait d’une non concordance marquée entre l’expérience de genre vécue et le genre assigné
--	Un désir fort d’appartenir à l’autre sexe ou à tout autre genre alternatif différent du genre assigné
--	Une volonté́ forte d’être reconnu comme appartenant à l’autre sexe ou à tout autre genre alternatif différent du genre assigné
--	La conviction d’avoir des réactions et des sentiments appartenant à l’autre genre ou à tout autre genre alternatif différent du genre assigné.
+*	Un désir fort de se débarrasser des caractéristiques sexuelles d’un des deux sexes, du fait d’une non concordance marquée entre l’expérience de genre vécue et le genre assigné
+*	Un désir fort d’appartenir à l’autre sexe ou à tout autre genre alternatif différent du genre assigné
+*	Une volonté́ forte d’être reconnu comme appartenant à l’autre sexe ou à tout autre genre alternatif différent du genre assigné
+*	La conviction d’avoir des réactions et des sentiments appartenant à l’autre genre ou à tout autre genre alternatif différent du genre assigné.
 
 Enfin, ces critères sont limités par une condition : « une souffrance cliniquement significative ou une altération du fonctionnement social, professionnel ».
 
