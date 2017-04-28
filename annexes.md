@@ -11,5 +11,5 @@
 
 # Mapping du parcours
 
-<img  src = "https://controverses.github.io/transidentite/mapping1.png"  width = "400"  height = "300"  alt = "Two foxes" >
+<img  src = "https://controverses.github.io/transidentite/mapping1.png"  width = "500"  height = "300"  alt = "Two foxes" >
 
