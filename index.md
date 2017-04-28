@@ -1,4 +1,4 @@
-<body align="justify">
+
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3e/b9/58/3eb9583251a4b67214353c42f773d26b.jpg" width="480" align="center">
 
 
@@ -38,4 +38,3 @@ You can use the [editor on GitHub](https://github.com/controverses/transidentite
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ny1-Iswbc90" frameborder="0" allowfullscreen></iframe>
 
-</body>
