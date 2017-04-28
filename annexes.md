@@ -8,7 +8,8 @@
 
 # Entretiens
 
+
 # Mapping du parcours
 
-<Img  src = "https://controverses.github.io/transidentite/mapping1.png"  width = "400"  height = "300"  alt = "Two foxes" ></Img>
+<img  src = "https://controverses.github.io/transidentite/mapping1.png"  width = "400"  height = "300"  alt = "Two foxes" >
 
