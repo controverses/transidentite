@@ -1,6 +1,6 @@
 
 
-## Ceci est une autre page
+# Ceci est une autre page
 
 <p align= "justify">Le traitement hormonal de substitution est l’étape permettant de commencer la transformation physique du corps. Cette phase est assurée par un endocrinologue. Le traitement de substitution hormonale débute tout d’abord par un bilan sanguin complet. Si celui-ci ne fait pas état de contre-indication à la prise d’hormones (hypertension, antécédents d’hémorragie cérébrale, maladies hépatiques), le traitement de substitution à proprement parler commence.</p>
 
