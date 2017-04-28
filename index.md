@@ -13,7 +13,7 @@
 
 *	<p align= "justify">Un désir fort de se débarrasser des caractéristiques sexuelles d’un des deux sexes, du fait d’une non concordance marquée entre l’expérience de genre vécue et le genre assigné</p>
 *	<p align= "justify">Un désir fort d’appartenir à l’autre sexe ou à tout autre genre alternatif différent du genre assigné</p>
-*	<p align= "justify">Une volonté́ forte d’être reconnu comme appartenant à l’autre sexe ou à tout autre genre alternatif différent du genre assigné</p>
+*	<p align= "justify">Une volonté forte d’être reconnu comme appartenant à l’autre sexe ou à tout autre genre alternatif différent du genre assigné</p>
 *	<p align= "justify">La conviction d’avoir des réactions et des sentiments appartenant à l’autre genre ou à tout autre genre alternatif différent du genre assigné.</p>
 
 <p align= "justify">Enfin, ces critères sont limités par une condition : « une souffrance cliniquement significative ou une altération du fonctionnement social, professionnel ».</p>
