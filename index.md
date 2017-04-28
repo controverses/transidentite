@@ -34,7 +34,8 @@ salut salut !!!
 
 You can use the [editor on GitHub](https://github.com/controverses/transidentite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-![SIGLE](http://www.txy.fr/wp-content/uploads/2013/03/Logo-T.jpg)
+![SIGLE](http://www.txy.fr/wp-content/uploads/2013/03/Logo-T.jpg)\n
+
 
 <img src="http://www.txy.fr/wp-content/uploads/2013/03/Logo-T.jpg" width="480">
 
