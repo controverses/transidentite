@@ -1,6 +1,5 @@
-
+<font align="justify">
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3e/b9/58/3eb9583251a4b67214353c42f773d26b.jpg" width="480" align="center">
-
 
 
 # Problématisation
@@ -9,8 +8,7 @@ lalala
 
 # Petite histoire de la terminologie : du transsexualisme à la transidentité
 
-
-<p align="justify">La définition même de transgenre est déjà un sujet controversé : si elle a pu évoluer depuis le XXème siècle, elle reste intrinsèquement liée à un aspect chirurgical et psychologique. </p>
+La définition même de transgenre est déjà un sujet controversé : si elle a pu évoluer depuis le XXème siècle, elle reste intrinsèquement liée à un aspect chirurgical et psychologique. 
 
 Jusqu’au XIXème siècle, c’est l’idée d’une dichotomie stricte et irréversible entre le sexe masculin et le sexe féminin qui s’impose. En 1838, Jean Esquirol va classifier ce qu’il appelle transsexualisme dans les monomanies, une des formes de maladies psychiatriques. La médicalisation de la transidentité continue au XXème siècle. Harry Benjamin, endocrinologue et sexologue américain poursuit les travaux de Magnus Hirschfeld, fondateur de l’institut des sciences sexuelles et définit le transsexualisme comme le sentiment d’appartenir au sexe opposé et le désir d’une transformation corporelle. 
 
@@ -25,10 +23,7 @@ Enfin, ces critères sont limités par une condition : « une souffrance cliniqu
 
 C’est seulement en 2010 que Roselyne Bachelot a décrété que « *la transsexualité ne sera plus considérée comme une affection psychiatrique en France* ».
 
-
-
 # Constats préliminaires
-
 
 [Aller à la page 1](https://controverses.github.io/transidentite/page1)
 
@@ -43,4 +38,4 @@ You can use the [editor on GitHub](https://github.com/controverses/transidentite
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ny1-Iswbc90" frameborder="0" allowfullscreen></iframe>
 
-
+</font>
