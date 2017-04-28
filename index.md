@@ -2,7 +2,7 @@
 <img src="https://s-media-cache-ak0.pinimg.com/736x/3e/b9/58/3eb9583251a4b67214353c42f773d26b.jpg" width="480" align="center">
 
 
-<font align="justify"># Problématisation
+<div align="justify"># Problématisation
 
 lalala
 
@@ -29,7 +29,7 @@ C’est seulement en 2010 que Roselyne Bachelot a décrété que « *la transsex
 
 salut salut !!!
 
-You can use the [editor on GitHub](https://github.com/controverses/transidentite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.</font>
+You can use the [editor on GitHub](https://github.com/controverses/transidentite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.</div>
 
 ![SIGLE](http://www.txy.fr/wp-content/uploads/2013/03/Logo-T.jpg)
 
