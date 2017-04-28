@@ -1,6 +1,7 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
+@import "page1"
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -345,4 +346,8 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+page1 {
+  margin=0px;
 }
