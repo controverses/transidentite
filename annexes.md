@@ -10,4 +10,4 @@
 
 # Mapping du parcours
 
-<iframe width="400" height="400" src="https://controverses.github.io/transidentite/mapping.png" frameborder="0" margin:0px align="left" allowfullscreen></iframe>
+<iframe width="1000" height="1000" src="https://controverses.github.io/transidentite/mapping1.png" frameborder="0" margin:0px align="left" allowfullscreen></iframe>
