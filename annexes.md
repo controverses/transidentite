@@ -2,7 +2,9 @@
 
 # Bibliographie
 
+
 ## Articles généraux
+ 
  
 -   	PRINGEANT Simon, « Le changement d’état civil pour les « trans » ne satisfait pas les associations », Le Monde, 21 mai 2016, en ligne (http://www.lemonde.fr/societe/article/2016/05/21/changement-d-etat-civil-pour-les-trans-un-amendement-qui-ne-satisfait-pas-les-associations_4923860_3224.html (des revendications pas entièrement prises en compte)
  
@@ -16,7 +18,8 @@
  
  
 ## Ouvrages et articles spécialisés
-        	                                                                    	                                            	
+ 
+ 
 -   	ALESSANDRIN Arnaud, « Du « transsexualisme » à la « dysphorie de genre » : ce que le DSM fait des variances de genre », Socio-logos, septembre 2014, en ligne (http://socio-logos.revues.org/283)                      	
  
 -   	BEAUBATIE Emmanuelle, « Psychiatres normatifs vs. trans' subversifs ? Controverse autour des parcours de changement de sexe », Raisons politiques, février 2016, n°62, pp. 131-142.
@@ -36,6 +39,7 @@
  
 ## Sources législatives
  
+ 
 -     Proposition de loi du 29 septembre 2015 relative à la modification de la mention du sexe à l’Etat civil à l’Assemblée Nationale : http://www.assemblee-nationale.fr/14/propositions/pion3084.asp
  
 - Procédure, débats, amendements de la loi « justice pour le XXIème siècle » : https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000030962821&type=general&legislature=14
@@ -44,6 +48,7 @@
  
  
 ## Sources jurisprudentielles
+ 
  
 -   	Arrêt du 16 décembre 1975, Première chambre civile de la Cour de Cassation : https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000006995241
  
@@ -55,7 +60,9 @@
  
 -   	Arrêt du 18 mai 2005, Première chambre civile de la Cour de Cassation : https://www.courdecassation.fr/publications_26/rapport_annuel_36/rapport_2009_3408/etude_personnes_3411/chambre_civile_3417/convention_new_3423/18_mai_15307.html
  
+ 
 ## Sources cinématographiques
+ 
  
 -       GUERET Eric, “Trans, c’est mon genre”, Morgane (Carlos Pinsky), INFRAROUGE sur France 2, diffusé en novembre 2016
  
