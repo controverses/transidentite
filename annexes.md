@@ -70,7 +70,7 @@
 
 # Entretiens
 
-Entretien Beaubatie : 
+[Entretien de Emmanuel Beaubatie](https://controverses.github.io/transidentite/entretienbeaubatie.md)
 
 # Mapping du parcours
 
