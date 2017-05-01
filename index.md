@@ -23,9 +23,8 @@
 
 <p align= "justify">C’est seulement en 2010 que Roselyne Bachelot a décrété que «<I><B>la transsexualité ne sera plus considérée comme une affection psychiatrique en France</B></I>».</p>
 
-<p font-size = 20px>[Entrer dans le parcours]</p>(https://controverses.github.io/transidentite/page1)
+<font-size : 20px>[Entrer dans le parcours](https://controverses.github.io/transidentite/page1)
 
-<p align= "justify"></p>
 
 
 
