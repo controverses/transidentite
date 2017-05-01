@@ -25,7 +25,8 @@
 
 [<B><font size=20px>Entrer dans le parcours</font></B>](https://controverses.github.io/transidentite/page1)
 
-
+<img src="https://github.com/controverses/transidentite/blob/master/photomag.png?raw=true
+" width="700" height="400" alt="Two foxes">
 
 
 
