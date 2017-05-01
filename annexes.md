@@ -3,7 +3,7 @@
 # <u>Entretiens</u>
 
 * [Entretien de Emmanuel Beaubatie](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Professeur de sociologie du genre)
-* [Entretien de Vincent Bourseul](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Psychanaliste) 
+* [Entretien de Vincent Bourseul](https://controverses.github.io/transidentite/vincent_bourseul.html) (Psychanaliste) 
 * [Entretien de Mme Peytavin](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Transgenre MtF ayant effectué les transitions médicale et juridique)
 * [Entretien de Hervé Hubert](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Psychologue) 
 * [Entretien de Arnaud Alessandrin](https://controverses.github.io/transidentite/arnaud_alessandrin1.html) (Sociologue, thèse "Du 'transsexualisme' aux devenirs trans")
