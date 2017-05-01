@@ -1,6 +1,6 @@
 
 
-# Entretiens
+# <u>Entretiens</u>
 
 * [Entretien de Emmanuel Beaubatie](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Professeur de sociologie du genre)
 * [Entretien de Vincent Bourseul](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Psychanaliste) 
@@ -9,7 +9,7 @@
 * [Entretien de Arnaud Alessandrin](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Sociologue, thèse "Du 'transsexualisme' aux devenirs trans")
 
 
-# Bibliographie
+# <u>Bibliographie</u>
 
 
 ### Articles généraux
@@ -67,7 +67,7 @@
 -       GUERET Eric, “Trans, c’est mon genre”, Morgane (Carlos Pinsky), INFRAROUGE sur France 2, diffusé en novembre 2016
  
  
-# Mapping du parcours
+# <u>Mapping du parcours</u>
 
 <img  src = "https://controverses.github.io/transidentite/mapping1.png"  width = "600"  height = "400"  alt = "Two foxes" >
 
