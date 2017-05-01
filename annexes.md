@@ -69,5 +69,5 @@
  
 # <u>Mapping du parcours</u>
 
-<img  src = "https://controverses.github.io/transidentite/mapping1.png"  width = "600"  height = "400"  alt = "Two foxes" >
+<img  src = "https://controverses.github.io/transidentite/map.png"  width = "600"  height = "400"  alt = "Two foxes" >
 
