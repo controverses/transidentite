@@ -48,7 +48,7 @@
  
 - Procédure, débats, amendements de la loi « justice pour le XXIème siècle » : [en ligne](https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000030962821&type=general&legislature=14)
 
-[Lire le résumé de l'examen du texte en commission au cours de la réunion du 29 juin 2016](https://controverses.github.io/transidentite/resume_2016.html)
+[Lire le résumé de l'examen du texte en commission au cours de la réunion du 29 juin 2016](https://controverses.github.io/transidentite/resume.html)
  
 -  Loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle : [en ligne](https://www.legifrance.gouv.fr/eli/loi/2016/11/18/JUSX1515639L/jo)
  
