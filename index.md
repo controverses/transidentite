@@ -1,5 +1,7 @@
 
 
+<img src="https://github.com/controverses/transidentite/blob/master/photomag.png?raw=true" width="900" height="400" alt="Two foxes">
+
 # Problématisation
 
 <p align= "justify"><B>Transidentité. Transsexualisme. Transgenre.</B> Trois termes, utilisés différemment selon les milieux pour désigner une situation particulière : le <B>sentiment d’appartenance à un genre qui ne correspond pas au genre assigné au vu du sexe biologique</B>, tel qu’il est défini par la médecine. Nous avons décidé de nous intéresser à la transidentité et aux controverses juridiques, scientifiques et sociales liées à ce sujet. La transidentité, c’est le fait pour un individu de ne pas être en accord avec le genre assigné à la naissance et de ressentir la nécessité d’adopter, ponctuellement ou définitivement, les comportements et attributs sociaux du genre autre que celui assigné et auquel la personne s’identifie, peu importe son sexe. C’est le <B>décalage entre l’identité de genre, c’est-à-dire le genre ressenti, et le sexe d’un individu</B>. On parle plus communément de transgenre pour désigner une personne transidentitaire. Notre démarche consiste, en analysant le parcours d’un individu voulant changer de sexe, à soulever les controverses suscitées à ses différentes étapes, que ce soit d’un point de vue psychologique, médical ou légal. Pour ce, il convient tout d’abord de s’attacher aux controverses sur la définition même de la transidentité : on verra par la suite qu’elles sont à la base des critiques les plus virulentes sur la législation actuelle. Il nous faut également étudier les conditions nécessaires au changement de sexe, telles qu’elles sont définies par la législation et la justice française. Finalement, cela implique d’étudier l’appréciation de l’évolution de la législation, ses limites et ses critiques, en rencontrant les acteurs directement touchés.</p>
@@ -25,7 +27,6 @@
 
 [<B><font size=20px>Entrer dans le parcours</font></B>](https://controverses.github.io/transidentite/page1)
 
-<img src="https://github.com/controverses/transidentite/blob/master/photomag.png?raw=true" width="800" height="400" alt="Two foxes">
 
 
 
