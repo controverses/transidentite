@@ -3,7 +3,7 @@
 # Bibliographie
 
 
-## Articles généraux
+### Articles généraux
  
  
 -   	PRINGEANT Simon, « Le changement d’état civil pour les « trans » ne satisfait pas les associations », Le Monde, 21 mai 2016, en ligne (http://www.lemonde.fr/societe/article/2016/05/21/changement-d-etat-civil-pour-les-trans-un-amendement-qui-ne-satisfait-pas-les-associations_4923860_3224.html (des revendications pas entièrement prises en compte)
@@ -17,7 +17,7 @@
 -   	NEUFKENS Elisa, Europe Liberté Sécurité Justice, “Changement d’état civil pour les trans : bilan mitigé de la nouvelle loi pour la justice au XXIème siècle”, Europe Liberté Sécurité Justice, 20 octobre 2016, en ligne (https://europe-liberte-securite-justice.org/2016/10/20/changement-detat-civil-pour-les-trans-bilan-mitige-de-la-nouvelle-loi-pour-la-justice-au-xxieme-siecle/)
  
  
-## Ouvrages et articles spécialisés
+### Ouvrages et articles spécialisés
  
  
 -   	ALESSANDRIN Arnaud, « Du « transsexualisme » à la « dysphorie de genre » : ce que le DSM fait des variances de genre », Socio-logos, septembre 2014, en ligne (http://socio-logos.revues.org/283)                      	
@@ -37,7 +37,7 @@
 -   	POURE Valérie, « Vers un statut familial de la personne transsexuelle ? », Recherches familiales, janvier 2013, n° 10, pp.175-182.
  
  
-## Sources législatives
+### Sources législatives
  
  
 -     Proposition de loi du 29 septembre 2015 relative à la modification de la mention du sexe à l’Etat civil à l’Assemblée Nationale : http://www.assemblee-nationale.fr/14/propositions/pion3084.asp
@@ -47,7 +47,7 @@
 -  Loi n° 2016-1547 du 18 novembre 2016 de modernisation de la justice du XXIe siècle : https://www.legifrance.gouv.fr/eli/loi/2016/11/18/JUSX1515639L/jo (Loi de 2016)
  
  
-## Sources jurisprudentielles
+### Sources jurisprudentielles
  
  
 -   	Arrêt du 16 décembre 1975, Première chambre civile de la Cour de Cassation : https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000006995241
@@ -61,7 +61,7 @@
 -   	Arrêt du 18 mai 2005, Première chambre civile de la Cour de Cassation : https://www.courdecassation.fr/publications_26/rapport_annuel_36/rapport_2009_3408/etude_personnes_3411/chambre_civile_3417/convention_new_3423/18_mai_15307.html
  
  
-## Sources cinématographiques
+### Sources cinématographiques
  
  
 -       GUERET Eric, “Trans, c’est mon genre”, Morgane (Carlos Pinsky), INFRAROUGE sur France 2, diffusé en novembre 2016
