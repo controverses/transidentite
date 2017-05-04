@@ -2,11 +2,11 @@
 
 # <u>Entretiens</u>
 
-* [Entretien de Emmanuel Beaubatie](https://controverses.github.io/transidentite/entretien_beaubatie.html) (Professeur de sociologie du genre)
-* [Entretien de Vincent Bourseul](https://controverses.github.io/transidentite/vincent_bourseul.html) (Psychanaliste) 
-* [Entretien de Laura Leprince](https://controverses.github.io/transidentite/Laura_Leprince.html) (Transgenre MtF ayant effectué les transitions médicale et juridique)
-* [Entretien de Hervé Hubert](https://controverses.github.io/transidentite/herve_hubert.html) (Psychiatre) 
-* [Entretien de Arnaud Alessandrin](https://controverses.github.io/transidentite/arnaud_alessandrin1.html) (Sociologue, thèse "Du 'transsexualisme' aux devenirs trans")
+* [Entretien de Emmanuel Beaubatie](https://controverses.github.io/transidentite/emmanuel_beaubatie2.html) (Professeur de sociologie du genre)
+* [Entretien de Vincent Bourseul](https://controverses.github.io/transidentite/vincent_bourseul2.html) (Psychanaliste) 
+* [Entretien de Laura Leprince](https://controverses.github.io/transidentite/laura_leprince2.html) (Transgenre MtF ayant effectué les transitions médicale et juridique)
+* [Entretien de Hervé Hubert](https://controverses.github.io/transidentite/herve_hubert2.html) (Psychiatre) 
+* [Entretien de Arnaud Alessandrin](https://controverses.github.io/transidentite/arnaud_alessandrin2.html) (Sociologue, thèse "Du 'transsexualisme' aux devenirs trans")
 
 Conférence "Etre transsexuel en France aujourd'hui" - Equal Sciences Po
 
