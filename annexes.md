@@ -8,6 +8,8 @@
 * [Entretien de Hervé Hubert](https://controverses.github.io/transidentite/herve_hubert.html) (Psychiatre) 
 * [Entretien de Arnaud Alessandrin](https://controverses.github.io/transidentite/arnaud_alessandrin1.html) (Sociologue, thèse "Du 'transsexualisme' aux devenirs trans")
 
+Conférence "Etre transsexuel en France aujourd'hui" - Equal Sciences Po
+
 
 # <u>Bibliographie</u>
 
