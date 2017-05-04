@@ -16,7 +16,7 @@ Conférence "Etre transsexuel en France aujourd'hui" - Equal Sciences Po
 
 ### Articles généraux
  
--   	PRINGEANT Simon, « Le changement d’état civil pour les « trans » ne satisfait pas les associations », Le Monde, 21 mai 2016, [en ligne](http://www.lemonde.fr/societe/article/2016/05/21/changement-d-etat-civil-pour-les-trans-un-amendement-qui-ne-satisfait-pas-les-associations_4923860_3224.html (des revendications pas entièrement prises en compte)
+-   	PRINGEANT Simon, « Le changement d’état civil pour les « trans » ne satisfait pas les associations », Le Monde, 21 mai 2016, [en ligne](http://www.lemonde.fr/societe/article/2016/05/21/changement-d-etat-civil-pour-les-trans-un-amendement-qui-ne-satisfait-pas-les-associations_4923860_3224.html) (des revendications pas entièrement prises en compte)
  
 -   	Anonyme, “Changement de sexe, GPA… La Rochère : “s’il le faut, nous descendrons dans la rue”, Entretien avec Ludovine de la Rochère”, Valeurs actuelles, 24 mai 2016, [en ligne](http://www.valeursactuelles.com/politique/famille-transsexualite-gpa-la-rochere-sil-le-faut-nous-redescendrons-dans-la-rue-62017)
  
@@ -43,6 +43,9 @@ Conférence "Etre transsexuel en France aujourd'hui" - Equal Sciences Po
 -   	PEYRE Evelyne et WIELS Joëlle, Mon corps a-t-il un sexe, La Découverte, Paris, 2015, 360p.
  
 -   	POURE Valérie, « Vers un statut familial de la personne transsexuelle ? », Recherches familiales, janvier 2013, n° 10, pp.175-182.
+
+-   	HUBERT Hervé, « La place du psychiatre dans le parcours trans », 2016, en ligne http://www.acthe.fr/upload/1482062403-herve-hubert-place-du-psychiatre-parcours-trans.pdf
+
  
 ### Sources législatives
  
